@@ -22,4 +22,37 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Häufig
   - Welcher der drei Indikatoren R, F und M sollte für das Marketing- und Vertriebsteam im Rahmen des Einzelhandelsmodells des Unternehmens am interessantesten sein?
 
 **II.Datenvisualisierung mit Python**
-  - **Seaborn Countplot der Häufigkeit**
+  - **Seaborn Countplot der Häufigkeit**<br>
+    ![image](https://github.com/user-attachments/assets/5673c76a-8673-4ade-bf32-ad5ef6ed3057)
+ - **Baumstruktur der Kundensegmentierung**<br>
+    ![image](https://github.com/user-attachments/assets/aa185721-0cd0-41c8-8e63-84d0df14c428)
+ - **Seaborn Counplot der Kundensegmentierung**<br>
+    ![image](https://github.com/user-attachments/assets/a73d36c6-1803-43bb-bb60-bad5d0cc4837)
+ - **Kreisdiagramm des Kanals**<br>
+     ![image](https://github.com/user-attachments/assets/9ec0ec49-154b-4558-a145-230b820dc6d9)
+ - **Kreisdiagramm des Schiffsmodus**<br>
+  ![image](https://github.com/user-attachments/assets/42b54d26-42b6-4bbb-ba4c-85a312da0f9e)
+ - **Kreisdiagramm der Kategorie**<br>
+ ![image](https://github.com/user-attachments/assets/32748b8e-c870-4122-aaef-4186a28e1394)
+ - **Kreisdiagramm der Sub-Kategorie**<br>
+ ![image](https://github.com/user-attachments/assets/b05781ef-8f8d-4dea-a2df-ed84cb437a87)
+- **Balkendiagramm: Gesamtumsatz nach Segmentierung**<br>
+![image](https://github.com/user-attachments/assets/60caae7e-6083-40df-a003-90f4a9561c5f)
+- **Balkendiagramm: Gesamtgewinn nach Segmentierung**<br>
+![image](https://github.com/user-attachments/assets/773bd944-2c29-439b-9ef0-8d427c0f7e6d)
+- **Balkendiagramm: Gesamtumsazt nach Region**<br>
+![image](https://github.com/user-attachments/assets/cb2e5436-9716-423a-a8b4-20a3e7cb06f2)
+- **Treemap des Staates nach Aufträgen**<br>
+![image](https://github.com/user-attachments/assets/0639ac22-470b-47fa-a39c-0c41a588fdb6)
+
+
+
+
+
+
+ 
+
+
+
+
+
