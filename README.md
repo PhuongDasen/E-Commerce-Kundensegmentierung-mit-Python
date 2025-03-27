@@ -14,7 +14,9 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Häufig
 **Referenz**
 - https://www.putler.com/rfm-analysis
 
-**2. Geschäftliche Fragen**
+**2. Geschäftliche Fragen**<br>
+        <u>**Kontext**</u>
+  - SuperStore Company ist ein globales Einzelhandelsunternehmen. Das Unternehmen hat also viele Kunden.Anlässlich von Weihnachten und Neujahr möchte die Marketingabteilung Marketingkampagnen durchführen, um den Kunden zu danken, die das Unternehmen in der vergangenen Zeit unterstützt haben. Und Sie gewinnen Kunden, die das Potenzial haben, zu Stammkunden zu werden.
   - Die Marketingabteilung muss die Segmente der einzelnen Kunden klassifizieren, um für jede Kundengruppe das passende Marketingprogramm zu entwickeln.
   - Der Marketing-Direktor schlug außerdem vor, das RFM-Modell in Python zu verwenden, um die Kunden zu segmentieren und dann Marketingkampagnen zu starten, um den Kunden für ihre Unterstützung des Unternehmens in der Vergangenheit zu danken. Außerdem sollten potenzielle Kunden dazu gebracht werden, treue Kunden zu werden.
   - Welcher der drei Indikatoren R, F und M sollte für das Marketing- und Vertriebsteam im Rahmen des Einzelhandelsmodells des Unternehmens am interessantesten sein?
