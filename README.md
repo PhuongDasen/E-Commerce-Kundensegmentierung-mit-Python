@@ -3,7 +3,7 @@
 **1. Über RFM-Analyse**<br>
 **Warum RFM?**<br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Häufigkeit), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
-        - Häufigkeit: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
+        - Aktualität: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
         - Häufigkeit: wie oft ein Kunde eingekauft hat.<br>
         - Monetärer Wert: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
     - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.
