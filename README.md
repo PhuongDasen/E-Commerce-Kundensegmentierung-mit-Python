@@ -45,7 +45,15 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 - **Treemap des Staates nach Aufträgen**<br>
 ![image](https://github.com/user-attachments/assets/0639ac22-470b-47fa-a39c-0c41a588fdb6)
 
-
+**III.Insights**
+1. Der wichtigste Index der drei Indikatoren, auf die SuperStore achten sollte, ist F, gefolgt von R: Der Anteil der Kunden, die ein- und zweimalkaufen, ist sehr hoch. Nur sehr wenige Kunden tätigen langfristige Käufe, z.B: 8-9 Mal oder öfter. Das zeigt, dass die Kundenbindungsrate des Unternehmens weiterhin niedrig ist.
+2. Zur Kundensegmentierung: Das Unternehmen besteht hauptsächlich aus "Neukunden" > "Kunden im Ruhestand" > "Verlorene Kunden". Das zeigt erneut, dass wir dem Index F Aufmerksamkeit schenken sollte.
+3. Umsatzt und Gewinn aus "Neukunden" sind am höchsten.
+4. Der Umsatz in der Region Ost ist im Vergleich zu den anderen drei Regionen am niedrigsten.
+5. Kalifornien, Texas, Illinois und Floria sind die Bundesstaaten mit den meisten Bestellungen.
+6. Die Hauptkunden des Unternehmens sind Privatkunden (52%), Unternehmen (30%) und schliesslich Homeoffice-Kunden.
+7. Die bestellstärksten Kategorien sind "Bürobedarf" (bis zu 60%), gefolgt von "Möbeln".
+8. Die wichtigsten Unterkategorien sind: Papier (14%), Ordner(15%), Kunst (9%), Telefone und Aufbewahrung (8 %).
 
 
 
