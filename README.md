@@ -1,5 +1,5 @@
 # [PYTHON] RFM-Analysis 
-**I. Einleitung**<br>
+<h2>I. Einleitung</h2>
 **1. Über RFM-Analyse**<br>
 **Warum RFM?**<br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
@@ -21,7 +21,7 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
   - Der Marketing-Direktor schlug außerdem vor, das RFM-Modell in Python zu verwenden, um die Kunden zu segmentieren und dann Marketingkampagnen zu starten, um den Kunden für ihre Unterstützung des Unternehmens in der Vergangenheit zu danken. Außerdem sollten potenzielle Kunden dazu gebracht werden, treue Kunden zu werden.
   - Welcher der drei Indikatoren R, F und M sollte für das Marketing- und Vertriebsteam im Rahmen des Einzelhandelsmodells des Unternehmens am interessantesten sein?
 
-**II.Datenvisualisierung mit Python**
+<h2>II.Datenvisualisierung mit Python</h2>
   - **Seaborn Countplot der Häufigkeit**<br>
     ![image](https://github.com/user-attachments/assets/5673c76a-8673-4ade-bf32-ad5ef6ed3057)
  - **Baumstruktur der Kundensegmentierung**<br>
@@ -45,7 +45,7 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 - **Treemap des Staates nach Aufträgen**<br>
 ![image](https://github.com/user-attachments/assets/0639ac22-470b-47fa-a39c-0c41a588fdb6)
 
-**III.Insights**
+<h2>III.Insights</h2>
 1. Der wichtigste Index der drei Indikatoren, auf die SuperStore achten sollte, ist F, gefolgt von R: Der Anteil der Kunden, die ein- und zweimalkaufen, ist sehr hoch. Nur sehr wenige Kunden tätigen langfristige Käufe, z.B: 8-9 Mal oder öfter. Das zeigt, dass die Kundenbindungsrate des Unternehmens weiterhin niedrig ist.
 2. Zur Kundensegmentierung: Das Unternehmen besteht hauptsächlich aus "Neukunden" > "Kunden im Ruhestand" > "Verlorene Kunden". Das zeigt erneut, dass wir dem Index F Aufmerksamkeit schenken sollte.
 3. Umsatzt und Gewinn aus "Neukunden" sind am höchsten.
@@ -55,8 +55,8 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 7. Die bestellstärksten Kategorien sind "Bürobedarf" (bis zu 60%), gefolgt von "Möbeln".
 8. Die wichtigsten Unterkategorien sind: Papier (14%), Ordner(15%), Kunst (9%), Telefone und Aufbewahrung (8 %).
 
-**IV. Vorschläge**
-Das Unternehmen benötigt Richtlinie für:
+<h2>IV. Vorschläge</h2>
+Das Unternehmen benötigt Richtlinie für: <br>
 **Neukundenbindung:**<br>
 Senden Sie Neukunden, die kürzlich einen Einkauf getätigt haben, eine personalisierte Willkommens-E-Mail oder ein Angebot, in dem Sie sich für ihren Einkauf bedanken und sie zur Rückkehr animieren.
 
