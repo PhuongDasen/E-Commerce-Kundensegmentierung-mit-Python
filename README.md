@@ -55,6 +55,10 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 7. Die bestellstärksten Kategorien sind "Bürobedarf" (bis zu 60%), gefolgt von "Möbeln".
 8. Die wichtigsten Unterkategorien sind: Papier (14%), Ordner(15%), Kunst (9%), Telefone und Aufbewahrung (8 %).
 
+**IV. Vorschläge**
+Das Unternehmen benötigt Richtlinie für:
+**Neukundenbindung:**<br>
+Senden Sie Neukunden, die kürzlich einen Einkauf getätigt haben, eine personalisierte Willkommens-E-Mail oder ein Angebot, in dem Sie sich für ihren Einkauf bedanken und sie zur Rückkehr animieren.
 
 
 
