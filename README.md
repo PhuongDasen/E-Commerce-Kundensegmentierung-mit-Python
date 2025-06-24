@@ -1,7 +1,7 @@
 # [PYTHON] RFM-Analysis 
 <h2>I. Einleitung</h2>
-**1. Über RFM-Analyse**<br>
-**Warum RFM?**<br>
+ <p><u><strong>1. Über RFM-Analyse</strong></u></p>
+   <p><strong>Warum RFM?</strong><br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
         - Aktualität: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
         - Häufigkeit: wie oft ein Kunde eingekauft hat.<br>
