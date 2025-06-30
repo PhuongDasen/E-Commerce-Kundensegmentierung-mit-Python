@@ -60,9 +60,21 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 
 #### 2️⃣ Tabellenschema & Datenvorschau
 <details>
-  <summary>🔽 Tabelle 1: Ecommerce Retail </summary>
-  <br>
-  <img  width="400"/>
+<summary>🔽 Tabellenbeschreibung anzeigen</summary>
+
+<br>
+
+| **Spaltenname** | **Datentyp**     | **Beschreibung**                                                                 |
+|------------------|------------------|----------------------------------------------------------------------------------|
+| InvoiceNo        | object           | Eindeutige Rechnungsnummer für jede Transaktion (6-stellig). Beginnt sie mit „C“, handelt es sich um eine Stornierung. |
+| StockCode        | object           | Eindeutiger Produktcode (5-stellig).                                             |
+| Description      | object           | Produktname.                                                                     |
+| Quantity         | int64            | Anzahl der gekauften Einheiten pro Transaktion.                                  |
+| InvoiceDate      | datetime64[ns]   | Datum und Uhrzeit der Transaktion.                                               |
+| UnitPrice        | float64          | Preis pro Produkteinheit in britischen Pfund.                                    |
+| CustomerID       | float64          | Eindeutige 5-stellige Kennung für jeden Kunden.                                  |
+| Country          | object           | Name des Landes, in dem der Kunde wohnt.                                         |
+
 </details>
 
 <details>
