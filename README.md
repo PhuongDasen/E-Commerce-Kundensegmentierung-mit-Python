@@ -59,16 +59,12 @@ Diese Tabelle enthält Transaktionsdaten eines britischen Onlinehändlers im Zei
 Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Jeder Score wird einem Kundenprofil wie „Loyaler Kunde“ oder „Gefährdeter Kunde“ zugeordnet.<br>
 
 #### 2️⃣ Tabellenschema & Datenvorschau
-Tabelle 1: Ecommerce Retail
-
-
-
-
 <details>
-  <summary>🔽 Tabelle 1: </summary>
+  <summary>🔽 Tabelle 1: Ecommerce Retail </summary>
   <br>
-  <img " width="400"/>
+  <img  width="400"/>
 </details>
+
 <details>
   <summary>🔽 Tabelle 2: </summary>
   <br>
