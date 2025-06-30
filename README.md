@@ -18,31 +18,30 @@ Tool: Python<br>
 <p><u><strong>1. Über RFM-Analyse</strong></u></p>
    <p><strong>Warum RFM?</strong><br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
-        - Aktualität: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
-        - Häufigkeit: wie oft ein Kunde eingekauft hat.<br>
-        - Monetärer Wert: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
-    - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.
-**Wie?**<br>
-Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktualität, Häufigkeit - wie oft, Geldwert - wie viel) und dann auf der Grundlage der Kombination der RFM-Werte eingestuft
+        - <strong>Aktualität</strong>: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
+        - <strong>Häufigkeit</strong>: wie oft ein Kunde eingekauft hat.<br>
+        - <strong>Monetärer Wert</strong>: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
+    - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.<br>
+     
+<strong>Wie?</strong><br>
+Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktualität, Häufigkeit - wie oft, Geldwert - wie viel) und dann auf der Grundlage der Kombination der RFM-Werte eingestuft<br>
+
 **Referenz**
 - https://www.putler.com/rfm-analysis
 
 ### Ziel:
-### 📖 Was ist dieses Projekt?
+## 📖 Was ist dieses Projekt?
+- Dieses Projekt analysiert Kundenverhalten im E-Commerce mithilfe von RFM-Segmentierung und Churn-Prediction.
+- Ziel ist es, datengestützte Maßnahmen zur Kundenbindung und Umsatzsteigerung zu entwickeln.
 
-### 👤 Für wen ist dieses Projekt?
+## 👤 Für wen ist dieses Projekt?
+- Das Projekt richtet sich an das Marketing- und CRM-Team eines E-Commerce-Unternehmens.
+- Es unterstützt Entscheidungsträger dabei, Kundensegmente besser zu verstehen und gezielte Kampagnen durchzuführen.
 
-### ❓ Geschäftsfrage von dem Projekt?
+## ❓ Geschäftsfrage von dem Projekt?
+- Welche Kundengruppen sind besonders wertvoll oder gefährdet, zur Konkurrenz abzuwandern?
+- Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
 
-### 🎯 Projektergebnis: 
-
-[📊 Datenstruktur und Datenbeziehungen](#datenstruktur-und-datenbeziehungen)
-
-### 📌 Datenquellen:   
-- Quelle: 
-- Grösse: 
-- Format: 
-  
 ### 📁 Datensatzbeschreibung & Datenstruktur
 
 #### 1️⃣ Verwendete Tabellen:
