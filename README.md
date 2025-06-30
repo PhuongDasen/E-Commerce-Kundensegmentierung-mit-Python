@@ -60,7 +60,7 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 
 #### 2️⃣ Tabellenschema & Datenvorschau
 <details>
-<summary>🔽 Tabellenbeschreibung anzeigen</summary>
+<summary>🔽 Tabelle 1: Tabellenbeschreibung anzeigen</summary>
 
 <br>
 
@@ -78,44 +78,32 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 </details>
 
 <details>
-  <summary>🔽 Tabelle 2: </summary>
-  <br>
-  <img  width="500"/>
+<summary>🔽 Tabelle 2: RFM-Segmentierung anzeigen</summary>
+
+<br>
+
+| **Segment**              | **RFM Scores**                                                                                                                                                    |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Champions                | 555, 554, 544, 545, 454, 455, 445                                                                                                                                    |
+| Loyale Kunden            | 543, 444, 435, 355, 354, 345, 344, 335                                                                                                                              |
+| Potenzielle Loyale       | 553, 551, 552, 541, 542, 533, 532, 531, 452, 451, 442, 441, 431, 453, 433, 432, 423, 353, 352, 351, 342, 341, 333, 323                                                 |
+| Neue Kunden              | 512, 511, 422, 421, 412, 411, 311                                                                                                                                   |
+| Vielversprechend         | 525, 524, 523, 522, 521, 515, 514, 513, 425, 424, 413, 414, 415, 315, 314, 313                                                                                      |
+| Braucht Aufmerksamkeit   | 535, 534, 443, 434, 343, 334, 325, 324                                                                                                                              |
+| Einschlafend             | 331, 321, 312, 221, 213, 231, 241, 251                                                                                                                              |
+| Gefährdet                | 255, 254, 245, 244, 253, 252, 243, 242, 235, 234, 225, 224, 153, 152, 145, 143, 142, 135, 134, 133, 125, 124                                                          |
+| Nicht verlieren!         | 155, 154, 144, 214, 215, 115, 114, 113                                                                                                                              |
+| Winterschlafend          | 332, 322, 233, 232, 223, 222, 132, 123, 122, 212, 211                                                                                                                |
+| Verlorene Kunden         | 111, 112, 121, 131, 141, 151                                                                                                                                         |
+
 </details>
-<details>
-  <summary>🔽 Tabelle 3: </summary>
-  <br>
-  <img  width="1000"/>
-</details>
 
-#### 3️⃣ Datenbeziehungen:  
-<img src= width="800" /><br>
----
-
-## 🧠  Brainstorming
-<p><strong></strong></p>
-<img width="1000" src=/>
-<p><strong></strong></p>
-<img width="1000" " />
-<p><strong></strong></p>
-<img width="1000"  />
- <br>
-
-## ⚒️ Hauptprozess der Datenanalyse <br> 
-1️⃣  <br> 
-Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
-
-2️⃣ Explorative Datenanalyse (EDA) <br>
-
-3️⃣ SQL/ Python Analyse 
-## 1. 
-
+## ⚒️ Explorative Datenanalyse (EDA) <br> 
 
 
 🎯 **Ergebnisanalyse:**  
 
 
-## 2. 
 
 
 
