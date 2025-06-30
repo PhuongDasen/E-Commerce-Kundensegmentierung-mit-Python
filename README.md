@@ -43,10 +43,27 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 - Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
 
 ### 📁 Datensatzbeschreibung & Datenstruktur
+📌 Datenquelle
+Quelle: Bereitgestellter Datensatz für die Analyse des E-Commerce-Einzelhandels<br>
+Umfang: 541.910 Zeilen × 8 Spalten (Tabelle 1: E-Commerce Retail), zusätzliche Segmentierungsdetails in Tabelle 2<br>
+Format: .xlsx (Excel-Datei mit zwei Tabellenblättern)<br>
 
+📊 Datenstruktur & Beziehungen
 #### 1️⃣ Verwendete Tabellen:
-Es gibt ..... Tabellen im Datensatz.
-#### 2️⃣ Tabellenschema & Datenübersicht
+Der Datensatz besteht aus zwei Tabellen:<br>
+
+<strong>Tabelle 1: Ecommerce Retail</strong><br>
+Diese Tabelle enthält Transaktionsdaten eines britischen Onlinehändlers im Zeitraum von Dezember 2010 bis Dezember 2011. Sie eignet sich besonders gut zur Analyse des Kaufverhaltens und der Kundensegmentierung, da viele Kunden Großhändler sind.<br>
+
+<strong>Tabelle 2: Segmentation</strong><br>
+Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Jeder Score wird einem Kundenprofil wie „Loyaler Kunde“ oder „Gefährdeter Kunde“ zugeordnet.<br>
+
+#### 2️⃣ Tabellenschema & Datenvorschau
+Tabelle 1: Ecommerce Retail
+
+
+
+
 <details>
   <summary>🔽 Tabelle 1: </summary>
   <br>
