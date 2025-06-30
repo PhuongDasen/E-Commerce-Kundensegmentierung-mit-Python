@@ -1,12 +1,9 @@
-
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6336908f-05d6-49f7-96eb-63a5ed766624" width="100%">
+  <img " width="100%">
 </p>
-<h1> 📊 Energie-Dashboard</h1>
-Data Hackdays | Kanton Bern | 05.2025<br>
-Tool: PowerBI<br>
+<h1> 📊 E-Commerce Kundensegmentierung</h1>
+Author: Phuong Dasen<br>
+Tool: Python<br>
 
 ## 📑 Inhaltsverzeichnis
 
@@ -18,6 +15,17 @@ Tool: PowerBI<br>
 
 ---
 ## 📌 Hintergrund und Überblick 
+<p><u><strong>1. Über RFM-Analyse</strong></u></p>
+   <p><strong>Warum RFM?</strong><br>
+    - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
+        - Aktualität: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
+        - Häufigkeit: wie oft ein Kunde eingekauft hat.<br>
+        - Monetärer Wert: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
+    - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.
+**Wie?**<br>
+Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktualität, Häufigkeit - wie oft, Geldwert - wie viel) und dann auf der Grundlage der Kombination der RFM-Werte eingestuft
+**Referenz**
+- https://www.putler.com/rfm-analysis
 
 ### Ziel:
 ### 📖 Was ist dieses Projekt?
@@ -135,19 +143,7 @@ Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
 
 # [PYTHON] RFM-Analysis 
 <h2>I. Einleitung</h2>
- <p><u><strong>1. Über RFM-Analyse</strong></u></p>
-   <p><strong>Warum RFM?</strong><br>
-    - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
-        - Aktualität: wie oft ein Kunde in letzter Zeit eingekauft hat.<br>
-        - Häufigkeit: wie oft ein Kunde eingekauft hat.<br>
-        - Monetärer Wert: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
-    - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.
-
-**Wie?**<br>
-Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktualität, Häufigkeit - wie oft, Geldwert - wie viel) und dann auf der Grundlage der Kombination der RFM-Werte eingestuft
-
-**Referenz**
-- https://www.putler.com/rfm-analysis
+ 
 
 **2. Geschäftliche Fragen**<br>
         <u>**Kontext**</u>
