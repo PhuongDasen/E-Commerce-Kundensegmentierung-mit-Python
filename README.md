@@ -1,3 +1,138 @@
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6336908f-05d6-49f7-96eb-63a5ed766624" width="100%">
+</p>
+<h1> 📊 Energie-Dashboard</h1>
+Data Hackdays | Kanton Bern | 05.2025<br>
+Tool: PowerBI<br>
+
+## 📑 Inhaltsverzeichnis
+
+- [📌 Hintergrund & Überblick](#hintergrund--überblick)  
+- [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
+- [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
+- [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
+- [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
+
+---
+## 📌 Hintergrund und Überblick 
+
+### Ziel:
+### 📖 Was ist dieses Projekt?
+
+### 👤 Für wen ist dieses Projekt?
+
+### ❓ Geschäftsfrage von dem Projekt?
+
+### 🎯 Projektergebnis: 
+
+[📊 Datenstruktur und Datenbeziehungen](#datenstruktur-und-datenbeziehungen)
+
+### 📌 Datenquellen:   
+- Quelle: 
+- Grösse: 
+- Format: 
+  
+### 📁 Datensatzbeschreibung & Datenstruktur
+
+#### 1️⃣ Verwendete Tabellen:
+Es gibt ..... Tabellen im Datensatz.
+#### 2️⃣ Tabellenschema & Datenübersicht
+<details>
+  <summary>🔽 Tabelle 1: </summary>
+  <br>
+  <img " width="400"/>
+</details>
+<details>
+  <summary>🔽 Tabelle 2: </summary>
+  <br>
+  <img  width="500"/>
+</details>
+<details>
+  <summary>🔽 Tabelle 3: </summary>
+  <br>
+  <img  width="1000"/>
+</details>
+
+#### 3️⃣ Datenbeziehungen:  
+<img src= width="800" /><br>
+---
+
+## 🧠  Brainstorming
+<p><strong></strong></p>
+<img width="1000" src=/>
+<p><strong></strong></p>
+<img width="1000" " />
+<p><strong></strong></p>
+<img width="1000"  />
+ <br>
+
+## ⚒️ Hauptprozess der Datenanalyse <br> 
+1️⃣  <br> 
+Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
+
+2️⃣ Explorative Datenanalyse (EDA) <br>
+
+3️⃣ SQL/ Python Analyse 
+## 1. 
+
+
+
+🎯 **Ergebnisanalyse:**  
+
+
+## 2. 
+
+
+
+🎯 **Ergebnisanalyse:**  
+
+## 3. 
+
+
+
+🎯 **Ergebnisanalyse:**  
+
+
+## 4.
+
+
+🎯 **Ergebnisanalyse:**  
+
+## 5. 
+
+
+🎯 **Ergebnisanalyse:**  
+
+
+## 📊 Zentrale Erkenntnisse & Visualisierungen 
+
+### 🔍 Dashboard Vorschau  
+<img width="3500" />
+
+📊 Haupterkenntnisse  
+
+
+## 🔎 Abschließende Schlussfolgerung & Empfehlungen 
+
+📌 Zentrale Erkenntnisse:
+
+✔️ 
+
+✔️ 
+
+✔️ 
+
+
+
+
+
+
+
+
+
 # [PYTHON] RFM-Analysis 
 <h2>I. Einleitung</h2>
  <p><u><strong>1. Über RFM-Analyse</strong></u></p>
