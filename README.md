@@ -100,23 +100,36 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 
 ## ⚒️ Hauptprozess
 # 📌 Bibliotheken importieren
-<img width="600" alt="Screenshot 2025-07-01 at 9 04 11 AM" src="https://github.com/user-attachments/assets/eff40e30-91c4-48ff-91a5-0a8303acadb7" />
-<img width="600" alt="Screenshot 2025-07-01 at 9 16 29 AM" src="https://github.com/user-attachments/assets/0aa3014d-6080-457b-b787-a95169d5d593" />
-<img width="600" alt="Screenshot 2025-07-01 at 9 15 13 AM" src="https://github.com/user-attachments/assets/902a0c25-414a-4fb0-b113-04f3c3db0b2b" />
-<img width="600" alt="Screenshot 2025-07-01 at 9 15 23 AM" src="https://github.com/user-attachments/assets/1ce2522d-662c-4c34-a172-f755421e32f9" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 04 11 AM" src="https://github.com/user-attachments/assets/eff40e30-91c4-48ff-91a5-0a8303acadb7" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 16 29 AM" src="https://github.com/user-attachments/assets/0aa3014d-6080-457b-b787-a95169d5d593" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 15 13 AM" src="https://github.com/user-attachments/assets/902a0c25-414a-4fb0-b113-04f3c3db0b2b" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 15 23 AM" src="https://github.com/user-attachments/assets/1ce2522d-662c-4c34-a172-f755421e32f9" />
 
-📌 Explorative Datenanalyse (EDA) <br> 
-<img width="600" alt="Screenshot 2025-07-01 at 9 17 08 AM" src="https://github.com/user-attachments/assets/5119454c-5231-40a6-899d-af6b81bc56ad" /><br>
+# 📌 Explorative Datenanalyse (EDA) <br> 
+<img width="700" alt="Screenshot 2025-07-01 at 9 17 08 AM" src="https://github.com/user-attachments/assets/5119454c-5231-40a6-899d-af6b81bc56ad" /><br>
 🎯 **Ergebnisanalyse:**  
-	1.	Die Daten haben 541.909 Zeilen und 8 Spalten<br>
-	2.	Die Spalte CustomerID: fehlen rund 135.000 Einträge (541.909 - 406.829) --> entfernen <br>
-	3.	Die Spalte Description: fehlen etwa 1.454 Beschreibungen --> kann halten, weil sie nicht auf RFM beeinflusst.<br>
-	4.	Die Datentypen sind größtenteils korrekt zugeordnet, z. B. InvoiceDate als datetime64, Quantity als int64, und UnitPrice als float64.<br>
-  5.  Inkorrekte Werte: <br>
+	1. Die Daten haben 541.909 Zeilen und 8 Spalten<br>
+	2. Die Spalte CustomerID: fehlen rund 135.000 Einträge (541.909 - 406.829) --> entfernen <br>
+	3. Die Spalte Description: fehlen etwa 1.454 Beschreibungen --> kann halten, weil sie nicht auf RFM beeinflusst.<br>
+	4. Die Datentypen sind größtenteils korrekt zugeordnet, z. B. InvoiceDate als datetime64, Quantity als int64, und UnitPrice als float64.<br>
+ 	5. Inkorrekte Werte: <br>
       * Bestandscode: 54487 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da die anderen Codes Geschenke sein können, wenn der Produktcode nicht aus fünf Ganzzahlen besteht.<br>
       * Menge: 10587 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da dies das RFM-Modell beeinflusst (Menge darf nicht <= 0 sein).<br>
       * Einzelpreis: 2512 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da dies das RFM-Modell beeinflusst (Preis darf nicht <= 0 sein).<br>
       * Bestellungen mit Rechnungsnummern, die mit „C“ beginnen, entfernen.<br>
+<img width="700" alt="Screenshot 2025-07-01 at 9 57 26 AM" src="https://github.com/user-attachments/assets/59b5812f-7226-4d04-b8cd-39c0d9aae183" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 57 40 AM" src="https://github.com/user-attachments/assets/466ac77d-6747-413b-b105-087b493d976e" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 57 52 AM" src="https://github.com/user-attachments/assets/c23d772f-d253-4b75-a06a-b9cea020f87d" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 58 03 AM" src="https://github.com/user-attachments/assets/c0f308fc-140b-4961-ae98-636da60b6628" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 06 15 AM" src="https://github.com/user-attachments/assets/d0fcab37-7958-4ff8-a44b-a954e7683f34" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 06 30 AM" src="https://github.com/user-attachments/assets/87a61e4a-3afa-4532-ac2a-bc975b9b4fe7" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 06 37 AM" src="https://github.com/user-attachments/assets/be5fd83f-4460-4905-bd0e-3aecf3b7a52e" />
+
+
+
 
 
 
