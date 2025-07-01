@@ -107,6 +107,7 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 
 # 📌 Explorative Datenanalyse (EDA) <br> 
 <img width="700" alt="Screenshot 2025-07-01 at 9 17 08 AM" src="https://github.com/user-attachments/assets/5119454c-5231-40a6-899d-af6b81bc56ad" /><br>
+
 🎯 **Ergebnisanalyse:**  
 	1. Die Daten haben 541.909 Zeilen und 8 Spalten<br>
 	2. Die Spalte CustomerID: fehlen rund 135.000 Einträge (541.909 - 406.829) --> entfernen <br>
@@ -120,6 +121,8 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 9 57 26 AM" src="https://github.com/user-attachments/assets/59b5812f-7226-4d04-b8cd-39c0d9aae183" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 57 40 AM" src="https://github.com/user-attachments/assets/466ac77d-6747-413b-b105-087b493d976e" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 57 52 AM" src="https://github.com/user-attachments/assets/c23d772f-d253-4b75-a06a-b9cea020f87d" />
+
+# 📌 RFM <br> 
 <img width="700" alt="Screenshot 2025-07-01 at 9 58 03 AM" src="https://github.com/user-attachments/assets/c0f308fc-140b-4961-ae98-636da60b6628" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" />
@@ -127,6 +130,12 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 30 AM" src="https://github.com/user-attachments/assets/87a61e4a-3afa-4532-ac2a-bc975b9b4fe7" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 37 AM" src="https://github.com/user-attachments/assets/be5fd83f-4460-4905-bd0e-3aecf3b7a52e" />
+<img width="599" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" />
+<img width="354" alt="Screenshot 2025-07-01 at 10 14 26 AM" src="https://github.com/user-attachments/assets/6f43f1c6-eae8-43e4-9684-dffe65505538" /><br>
+
+🎯 **Ergebnisanalyse:**
+Die aktuelle Segmentstruktur zeigt, dass nur <strong>~1 von 10 Kunden</strong> hochprofitabel ist, während fast die Hälfte gefährdet ist, komplett verloren zu gehen. Ziel sollte sein, die „Potenzial“-Gruppe zu aktivieren und die „Risiko“-Gruppe zu analysieren oder selektiv zu bearbeiten.
+
 
 
 
