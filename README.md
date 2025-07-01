@@ -43,12 +43,12 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 - Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
 
 ### 📁 Datensatzbeschreibung & Datenstruktur
-📌 Datenquelle<br>
+## 📌 Datenquelle<br>
 Quelle: Bereitgestellter Datensatz für die Analyse des E-Commerce-Einzelhandels<br>
 Umfang: 541.910 Zeilen × 8 Spalten (Tabelle 1: E-Commerce Retail), zusätzliche Segmentierungsdetails in Tabelle 2<br>
 Format: .xlsx (Excel-Datei mit zwei Tabellenblättern)<br>
 
-📊 Datenstruktur & Beziehungen
+## 📊 Datenstruktur & Beziehungen
 #### 1️⃣ Verwendete Tabellen:
 Der Datensatz besteht aus zwei Tabellen:<br>
 
@@ -99,13 +99,13 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 </details>
 
 ## ⚒️ Hauptprozess
-# 📌 Bibliotheken importieren
+## 📌 Bibliotheken importieren
 <img width="700" alt="Screenshot 2025-07-01 at 9 04 11 AM" src="https://github.com/user-attachments/assets/eff40e30-91c4-48ff-91a5-0a8303acadb7" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 16 29 AM" src="https://github.com/user-attachments/assets/0aa3014d-6080-457b-b787-a95169d5d593" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 15 13 AM" src="https://github.com/user-attachments/assets/902a0c25-414a-4fb0-b113-04f3c3db0b2b" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 15 23 AM" src="https://github.com/user-attachments/assets/1ce2522d-662c-4c34-a172-f755421e32f9" />
 
-# 📌 Explorative Datenanalyse (EDA) <br> 
+## 📌 Explorative Datenanalyse (EDA)
 <img width="700" alt="Screenshot 2025-07-01 at 9 17 08 AM" src="https://github.com/user-attachments/assets/5119454c-5231-40a6-899d-af6b81bc56ad" /><br>
 
 🎯 **Ergebnisanalyse:**  
@@ -122,7 +122,7 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 9 57 40 AM" src="https://github.com/user-attachments/assets/466ac77d-6747-413b-b105-087b493d976e" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 57 52 AM" src="https://github.com/user-attachments/assets/c23d772f-d253-4b75-a06a-b9cea020f87d" />
 
-# 📌 RFM <br> 
+## 📌 RFM <br> 
 <img width="700" alt="Screenshot 2025-07-01 at 9 58 03 AM" src="https://github.com/user-attachments/assets/c0f308fc-140b-4961-ae98-636da60b6628" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" />
@@ -133,24 +133,24 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" /><br>
 <img width="700" alt="Screenshot 2025-07-01 at 10 14 26 AM" src="https://github.com/user-attachments/assets/6f43f1c6-eae8-43e4-9684-dffe65505538" /><br>
 
-🎯 **Ergebnisanalyse:**
+**🎯 Ergebnisanalyse:**
 Die aktuelle Segmentstruktur zeigt, dass nur <strong>~1 von 10 Kunden</strong> hochprofitabel ist, während fast die Hälfte gefährdet ist, komplett verloren zu gehen. Ziel sollte sein, die „Potenzial“-Gruppe zu aktivieren und die „Risiko“-Gruppe zu analysieren oder selektiv zu bearbeiten.
 
 ## 📊 Visualisierungen der RFM-Werte (Histogramme)
 1. Boxplots zur Erkennung von Ausreissern
 <img width="700" alt="Screenshot 2025-07-01 at 9 05 27 PM" src="https://github.com/user-attachments/assets/18e856ef-2a4e-4fbc-a89e-c44fc88c99fd" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 06 12 PM" src="https://github.com/user-attachments/assets/fafdb176-1b8c-404a-9309-04b8749b6631" />
-<img width="700" alt="Screenshot 2025-07-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/12df803b-d741-4efe-86df-dae7e2d91704" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/12df803b-d741-4efe-86df-dae7e2d91704" /><br>
 2. Heatmap der durchschnittlichen Monetärwertr je R/F-Score
 <img width="700" alt="Screenshot 2025-07-01 at 9 09 10 PM" src="https://github.com/user-attachments/assets/fb1f8bc7-b36f-4a9a-b36b-b9b5d5e9aa07" />
-<img width="700" alt="Screenshot 2025-07-01 at 9 09 17 PM" src="https://github.com/user-attachments/assets/775114cb-5a03-4bd4-b6e1-9ac211dee6b2" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 09 17 PM" src="https://github.com/user-attachments/assets/775114cb-5a03-4bd4-b6e1-9ac211dee6b2" /><br>
 3. Kundensegmentierung auf Basis von RFM
-<img width="1000" alt="Screenshot 2025-07-01 at 9 10 07 PM" src="https://github.com/user-attachments/assets/5eb4d7d3-082b-4919-af23-a9e31108e570" />
-<img width="791" alt="Screenshot 2025-07-01 at 9 10 14 PM" src="https://github.com/user-attachments/assets/d5029356-46ac-4d2f-89ee-72851d6b6191" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 10 07 PM" src="https://github.com/user-attachments/assets/5eb4d7d3-082b-4919-af23-a9e31108e570" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 10 14 PM" src="https://github.com/user-attachments/assets/d5029356-46ac-4d2f-89ee-72851d6b6191" /><br>
 
 ## 🔎 Abschließende Schlussfolgerung & Empfehlungen 
 
-📌 Zentrale Erkenntnisse:
+## 📌 Zentrale Erkenntnisse:
 
 ✔️ 
 
