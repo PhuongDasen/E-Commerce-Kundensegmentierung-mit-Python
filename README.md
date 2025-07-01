@@ -130,47 +130,23 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 30 AM" src="https://github.com/user-attachments/assets/87a61e4a-3afa-4532-ac2a-bc975b9b4fe7" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 37 AM" src="https://github.com/user-attachments/assets/be5fd83f-4460-4905-bd0e-3aecf3b7a52e" />
-<img width="599" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" />
-<img width="354" alt="Screenshot 2025-07-01 at 10 14 26 AM" src="https://github.com/user-attachments/assets/6f43f1c6-eae8-43e4-9684-dffe65505538" /><br>
+<img width="700" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" /><br>
+<img width="700" alt="Screenshot 2025-07-01 at 10 14 26 AM" src="https://github.com/user-attachments/assets/6f43f1c6-eae8-43e4-9684-dffe65505538" /><br>
 
 🎯 **Ergebnisanalyse:**
 Die aktuelle Segmentstruktur zeigt, dass nur <strong>~1 von 10 Kunden</strong> hochprofitabel ist, während fast die Hälfte gefährdet ist, komplett verloren zu gehen. Ziel sollte sein, die „Potenzial“-Gruppe zu aktivieren und die „Risiko“-Gruppe zu analysieren oder selektiv zu bearbeiten.
 
-
-
-
-
-
-
-
-
-🎯 **Ergebnisanalyse:**  
-
-## 3. 
-
-
-
-🎯 **Ergebnisanalyse:**  
-
-
-## 4.
-
-
-🎯 **Ergebnisanalyse:**  
-
-## 5. 
-
-
-🎯 **Ergebnisanalyse:**  
-
-
-## 📊 Zentrale Erkenntnisse & Visualisierungen 
-
-### 🔍 Dashboard Vorschau  
-<img width="3500" />
-
-📊 Haupterkenntnisse  
-
+## 📊 Visualisierungen der RFM-Werte (Histogramme)
+1. Boxplots zur Erkennung von Ausreissern
+<img width="700" alt="Screenshot 2025-07-01 at 9 05 27 PM" src="https://github.com/user-attachments/assets/18e856ef-2a4e-4fbc-a89e-c44fc88c99fd" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 06 12 PM" src="https://github.com/user-attachments/assets/fafdb176-1b8c-404a-9309-04b8749b6631" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/12df803b-d741-4efe-86df-dae7e2d91704" />
+2. Heatmap der durchschnittlichen Monetärwertr je R/F-Score
+<img width="700" alt="Screenshot 2025-07-01 at 9 09 10 PM" src="https://github.com/user-attachments/assets/fb1f8bc7-b36f-4a9a-b36b-b9b5d5e9aa07" />
+<img width="700" alt="Screenshot 2025-07-01 at 9 09 17 PM" src="https://github.com/user-attachments/assets/775114cb-5a03-4bd4-b6e1-9ac211dee6b2" />
+3. Kundensegmentierung auf Basis von RFM
+<img width="1000" alt="Screenshot 2025-07-01 at 9 10 07 PM" src="https://github.com/user-attachments/assets/5eb4d7d3-082b-4919-af23-a9e31108e570" />
+<img width="791" alt="Screenshot 2025-07-01 at 9 10 14 PM" src="https://github.com/user-attachments/assets/d5029356-46ac-4d2f-89ee-72851d6b6191" />
 
 ## 🔎 Abschließende Schlussfolgerung & Empfehlungen 
 
