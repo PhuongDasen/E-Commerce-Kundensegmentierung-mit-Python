@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1af0f79-3874-4552-a1de-af99968c8460" width="90%">
 </p>
-<h1> 📊 E-Commerce Kundensegmentierung</h1>
+<h1> 📊 E-Commerce Kundensegmentierung mit Python</h1>
 Author: Phuong Dasen<br>
 Tool: Python<br>
 
