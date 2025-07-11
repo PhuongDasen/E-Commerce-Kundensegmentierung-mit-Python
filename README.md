@@ -21,13 +21,14 @@ Tool: Python<br>
 - Um dieses Problem zu lösen, wird das RFM-Modell mit Python (Colab) angewendet, um Kunden basierend auf ihrem Kaufverhalten in verschiedene Segmente einzuteilen.<br>
 - Dieses Projekt umfasst Datenaufbereitung, RFM-Score-Berechnung, Segmentierung, Visualisierung und die Bereitstellung umsetzbarer Empfehlungen für die Marketing- und Vertriebsteams zur Optimierung ihrer Strategien.<br>
 ## 👤 Für wen ist dieses Projekt?
-- Das Projekt richtet sich an das Marketing- und CRM-Team eines E-Commerce-Unternehmens.
-- Es unterstützt Entscheidungsträger dabei, Kundensegmente besser zu verstehen und gezielte Kampagnen durchzuführen.
-
+- Das Projekt richtet sich an das Marketing- und CRM-Team eines E-Commerce-Unternehmens.<br>
+- Es unterstützt Entscheidungsträger dabei, Kundensegmente besser zu verstehen und gezielte Kampagnen durchzuführen.<br>
 ## ❓ Geschäftsfrage von dem Projekt?
-- Welche Kundengruppen sind besonders wertvoll oder gefährdet, zur Konkurrenz abzuwandern?
-- Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
-  
+✔️ Wie können wir Kunden mithilfe des RFM-Modells effektiv segmentieren?<br>
+✔️ Welche Kundengruppen sollten bei Kundenbindungs- und Werbekampagnen priorisiert werden?<br>
+✔️ Welche umsetzbaren Erkenntnisse können zur Verbesserung von Marketingstrategien und Kundenbindung beitragen?<br>
+✔️ Welche Strategien sollten für verschiedene Kundensegmente angewendet werden, um den Wert zu maximieren?<br>
+
 <p><u><strong>1. Über RFM-Analyse</strong></u></p>
    <p><strong>Warum RFM?</strong><br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
@@ -35,20 +36,15 @@ Tool: Python<br>
         - <strong>Häufigkeit</strong>: wie oft ein Kunde eingekauft hat.<br>
         - <strong>Monetärer Wert</strong>: den Gesamtbetrag, den ein Kunde für seine Einkäufe ausgegeben hat.<br>
     - RFM wird verwendet, um Kunden auf der Grundlage ihres Kaufverhaltens zu identifizieren und zu kategorisieren, d. h. wie häufig und kürzlich sie eingekauft haben und wie hoch der Geldwert dieser Einkäufe ist.<br>
-     
-<strong>Wie?</strong><br>
-Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktualität, Häufigkeit - wie oft, Geldwert - wie viel) und dann auf der Grundlage der Kombination der RFM-Werte eingestuft<br>
-
+	   
 **Referenz**
 - https://www.putler.com/rfm-analysis
 
-
-
 ### 📁 Datensatzbeschreibung & Datenstruktur
 ## 📌 Datenquelle<br>
-Quelle: Bereitgestellter Datensatz für die Analyse des E-Commerce-Einzelhandels<br>
-Umfang: 541.910 Zeilen × 8 Spalten (Tabelle 1: E-Commerce Retail), zusätzliche Segmentierungsdetails in Tabelle 2<br>
-Format: .xlsx (Excel-Datei mit zwei Tabellenblättern)<br>
+* Quelle: Bereitgestellter Datensatz für die Analyse des E-Commerce-Einzelhandels<br>
+* Umfang: 541.910 Zeilen × 8 Spalten (Tabelle 1: E-Commerce Retail), zusätzliche Segmentierungsdetails in Tabelle 2<br>
+* Format: .xlsx (Excel-Datei mit zwei Tabellenblättern)<br>
 
 ## 📊 Datenstruktur & Beziehungen
 #### 1️⃣ Verwendete Tabellen:
