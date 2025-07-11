@@ -93,7 +93,6 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 | Nicht verlieren!         | 155, 154, 144, 214, 215, 115, 114, 113                                                                                                                              |
 | Winterschlafend          | 332, 322, 233, 232, 223, 222, 132, 123, 122, 212, 211                                                                                                                |
 | Verlorene Kunden         | 111, 112, 121, 131, 141, 151                                                                                                                                         |
-
 </details>
 
 ## ⚒️ Hauptprozess
