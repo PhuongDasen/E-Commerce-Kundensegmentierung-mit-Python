@@ -126,13 +126,11 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 ## 📌 RFM <br> 
 <img width="700" alt="Screenshot 2025-07-01 at 9 58 03 AM" src="https://github.com/user-attachments/assets/c0f308fc-140b-4961-ae98-636da60b6628" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
-<img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" /><br>
 👉 Das RFM-Modell zeigt für jeden Kunden, wie kürzlich (Recency), wie häufig (Frequency) und mit welchem Geldwert (Monetary) er eingekauft hat. Zum Beispiel hat der Kunde mit der ID 12347.0 vor nur 2 Tagen zuletzt gekauft, insgesamt 7 Bestellungen getätigt und dabei 4310 £ ausgegeben – ein wertvoller und aktiver Kunde.<br>
-
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 15 AM" src="https://github.com/user-attachments/assets/d0fcab37-7958-4ff8-a44b-a954e7683f34" />
-<img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />
+<img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />.<br>
 👉 Ein hoher RFM_Score wie „555“ signalisiert einen besonders wertvollen Kunden: kürzlich aktiv, sehr kauffreudig und mit hohem Umsatz.<br>
-
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 30 AM" src="https://github.com/user-attachments/assets/87a61e4a-3afa-4532-ac2a-bc975b9b4fe7" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 37 AM" src="https://github.com/user-attachments/assets/be5fd83f-4460-4905-bd0e-3aecf3b7a52e" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" /><br>
@@ -146,13 +144,15 @@ Die aktuelle Segmentstruktur zeigt, dass nur <strong>~1 von 10 Kunden</strong> h
 <img width="700" alt="Screenshot 2025-07-01 at 9 05 27 PM" src="https://github.com/user-attachments/assets/18e856ef-2a4e-4fbc-a89e-c44fc88c99fd" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 06 12 PM" src="https://github.com/user-attachments/assets/fafdb176-1b8c-404a-9309-04b8749b6631" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/12df803b-d741-4efe-86df-dae7e2d91704" /><br>
+👉 In allen drei Fällen zeigen die Diagramme, dass es einige wenige Kunden mit sehr hohen Werten gibt – diese Ausreißer könnten besonders interessante oder atypische Kundenprofile darstellen.<br>
 2. Heatmap der durchschnittlichen Monetärwertr je R/F-Score
 <img width="700" alt="Screenshot 2025-07-01 at 9 09 10 PM" src="https://github.com/user-attachments/assets/fb1f8bc7-b36f-4a9a-b36b-b9b5d5e9aa07" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 09 17 PM" src="https://github.com/user-attachments/assets/775114cb-5a03-4bd4-b6e1-9ac211dee6b2" /><br>
+👉 Kunden mit einem hohen R- und F-Score (z. B. R=5, F=5) haben tendenziell auch einen höheren Umsatz, was sie zu besonders wertvollen Zielgruppen macht.<br>
 3. Kundensegmentierung auf Basis von RFM
 <img width="700" alt="Screenshot 2025-07-01 at 9 10 07 PM" src="https://github.com/user-attachments/assets/5eb4d7d3-082b-4919-af23-a9e31108e570" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 10 14 PM" src="https://github.com/user-attachments/assets/d5029356-46ac-4d2f-89ee-72851d6b6191" /><br>
-
+👉 Diese Segmentierung ermöglicht es Unternehmen, gezielte Marketingstrategien für jede Gruppe zu entwickeln und dadurch Kundenbindung sowie Umsatz zu optimieren.<br>
 ## 🔎 Kundenanalyse nach Segmenten – Erkenntnisse & Vorschläge
 ### 1. 💡 **Potenzielle Loyalität**
 Dieses Segment ist mit Abstand das größte, was zeigt, dass viele Kunden aktiv, aber noch nicht fest gebunden sind.  
