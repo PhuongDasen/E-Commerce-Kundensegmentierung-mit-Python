@@ -15,6 +15,19 @@ Tool: Python<br>
 
 ---
 ## 📌 Hintergrund und Überblick 
+### Ziel:
+## 📖 Was ist dieses Projekt?
+- Das Marketingteam möchte während der Weihnachtszeit personalisierte Kampagnen zur Kundenbindung und -gewinnung starten. Aufgrund des großen Datensatzes ist eine manuelle Segmentierung jedoch nicht mehr möglich.<br>
+- Um dieses Problem zu lösen, wird das RFM-Modell mit Python (Colab) angewendet, um Kunden basierend auf ihrem Kaufverhalten in verschiedene Segmente einzuteilen.<br>
+- Dieses Projekt umfasst Datenaufbereitung, RFM-Score-Berechnung, Segmentierung, Visualisierung und die Bereitstellung umsetzbarer Empfehlungen für die Marketing- und Vertriebsteams zur Optimierung ihrer Strategien.<br>
+## 👤 Für wen ist dieses Projekt?
+- Das Projekt richtet sich an das Marketing- und CRM-Team eines E-Commerce-Unternehmens.
+- Es unterstützt Entscheidungsträger dabei, Kundensegmente besser zu verstehen und gezielte Kampagnen durchzuführen.
+
+## ❓ Geschäftsfrage von dem Projekt?
+- Welche Kundengruppen sind besonders wertvoll oder gefährdet, zur Konkurrenz abzuwandern?
+- Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
+  
 <p><u><strong>1. Über RFM-Analyse</strong></u></p>
    <p><strong>Warum RFM?</strong><br>
     - RFM ist eine Marketinganalysetechnik, die für Recency (Aktualität), Frequency (Häufigkeit) und Monetary Value (Geldwert) steht.<br>
@@ -29,18 +42,7 @@ Bei der RFM-Analyse werden die Kunden anhand von drei Faktoren bewertet (Aktuali
 **Referenz**
 - https://www.putler.com/rfm-analysis
 
-### Ziel:
-## 📖 Was ist dieses Projekt?
-- Dieses Projekt analysiert Kundenverhalten im E-Commerce mithilfe von RFM-Segmentierung und Churn-Prediction.
-- Ziel ist es, datengestützte Maßnahmen zur Kundenbindung und Umsatzsteigerung zu entwickeln.
 
-## 👤 Für wen ist dieses Projekt?
-- Das Projekt richtet sich an das Marketing- und CRM-Team eines E-Commerce-Unternehmens.
-- Es unterstützt Entscheidungsträger dabei, Kundensegmente besser zu verstehen und gezielte Kampagnen durchzuführen.
-
-## ❓ Geschäftsfrage von dem Projekt?
-- Welche Kundengruppen sind besonders wertvoll oder gefährdet, zur Konkurrenz abzuwandern?
-- Wie können Unternehmen datenbasiert reagieren, um Kunden zu halten oder zurückzugewinnen?
 
 ### 📁 Datensatzbeschreibung & Datenstruktur
 ## 📌 Datenquelle<br>
