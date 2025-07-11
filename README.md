@@ -106,11 +106,15 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 9 17 08 AM" src="https://github.com/user-attachments/assets/5119454c-5231-40a6-899d-af6b81bc56ad" /><br>
 
 🎯 **Ergebnisanalyse:**  
-	1. Die Daten haben 541.909 Zeilen und 8 Spalten<br>
-	2. Die Spalte CustomerID: fehlen rund 135.000 Einträge (541.909 - 406.829) --> entfernen <br>
-	3. Die Spalte Description: fehlen etwa 1.454 Beschreibungen --> kann halten, weil sie nicht auf RFM beeinflusst.<br>
-	4. Die Datentypen sind größtenteils korrekt zugeordnet, z. B. InvoiceDate als datetime64, Quantity als int64, und UnitPrice als float64.<br>
- 	5. Inkorrekte Werte: <br>
+1. Die Daten haben 541.909 Zeilen und 8 Spalten<br>
+
+2. Die Spalte CustomerID: fehlen rund 135.000 Einträge (541.909 - 406.829) --> entfernen <br>
+
+3. Die Spalte Description: fehlen etwa 1.454 Beschreibungen --> kann halten, weil sie nicht auf RFM beeinflusst.<br>
+	
+ 4. Die Datentypen sind größtenteils korrekt zugeordnet, z. B. InvoiceDate als datetime64, Quantity als int64, und UnitPrice als float64.<br>
+ 
+ 5. Inkorrekte Werte: <br>
       * Bestandscode: 54487 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da die anderen Codes Geschenke sein können, wenn der Produktcode nicht aus fünf Ganzzahlen besteht.<br>
       * Menge: 10587 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da dies das RFM-Modell beeinflusst (Menge darf nicht <= 0 sein).<br>
       * Einzelpreis: 2512 Zeilen -> Zeilen mit fehlerhaften Daten löschen, da dies das RFM-Modell beeinflusst (Preis darf nicht <= 0 sein).<br>
@@ -123,8 +127,12 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 9 58 03 AM" src="https://github.com/user-attachments/assets/c0f308fc-140b-4961-ae98-636da60b6628" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" />
+👉 Das RFM-Modell zeigt für jeden Kunden, wie kürzlich (Recency), wie häufig (Frequency) und mit welchem Geldwert (Monetary) er eingekauft hat. Zum Beispiel hat der Kunde mit der ID 12347.0 vor nur 2 Tagen zuletzt gekauft, insgesamt 7 Bestellungen getätigt und dabei 4310 £ ausgegeben – ein wertvoller und aktiver Kunde.<br>
+
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 15 AM" src="https://github.com/user-attachments/assets/d0fcab37-7958-4ff8-a44b-a954e7683f34" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />
+👉 Ein hoher RFM_Score wie „555“ signalisiert einen besonders wertvollen Kunden: kürzlich aktiv, sehr kauffreudig und mit hohem Umsatz.<br>
+
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 30 AM" src="https://github.com/user-attachments/assets/87a61e4a-3afa-4532-ac2a-bc975b9b4fe7" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 37 AM" src="https://github.com/user-attachments/assets/be5fd83f-4460-4905-bd0e-3aecf3b7a52e" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 14 15 AM" src="https://github.com/user-attachments/assets/e0f50a6d-451d-41f9-9330-1a61803471bc" /><br>
