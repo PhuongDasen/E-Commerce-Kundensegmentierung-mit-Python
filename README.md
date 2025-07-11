@@ -128,13 +128,9 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 21 AM" src="https://github.com/user-attachments/assets/6ed79069-f06f-4421-9be0-bc6cf00c1797" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 01 29 AM" src="https://github.com/user-attachments/assets/ca372425-9f27-47d5-a3ec-51fdbc0a505e" /><br>
 
----
-
 👉 Das RFM-Modell zeigt für jeden Kunden, wie kürzlich (Recency), wie häufig (Frequency) und mit welchem Geldwert (Monetary) er eingekauft hat. Zum Beispiel hat der Kunde mit der ID 12347.0 vor nur 2 Tagen zuletzt gekauft, insgesamt 7 Bestellungen getätigt und dabei 4310 £ ausgegeben – ein wertvoller und aktiver Kunde.<br>
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 15 AM" src="https://github.com/user-attachments/assets/d0fcab37-7958-4ff8-a44b-a954e7683f34" />
 <img width="700" alt="Screenshot 2025-07-01 at 10 06 20 AM" src="https://github.com/user-attachments/assets/d143e8e8-bec4-47f9-9fde-59101fbc3e06" />.<br>
-
----
 
 👉 Ein hoher RFM_Score wie „555“ signalisiert einen besonders wertvollen Kunden: kürzlich aktiv, sehr kauffreudig und mit hohem Umsatz.<br>
 
@@ -147,71 +143,58 @@ Diese Tabelle enthält RFM-Scores zur Klassifizierung von Kunden in Segmente. Je
 Die aktuelle Segmentstruktur zeigt, dass nur <strong>~1 von 10 Kunden</strong> hochprofitabel ist, während fast die Hälfte gefährdet ist, komplett verloren zu gehen. Ziel sollte sein, die „Potenzial“-Gruppe zu aktivieren und die „Risiko“-Gruppe zu analysieren oder selektiv zu bearbeiten.
 
 ## 📊 Visualisierungen der RFM-Werte (Histogramme)
-1. Boxplots zur Erkennung von Ausreissern
+### 1. Boxplots zur Erkennung von Ausreissern
 <img width="700" alt="Screenshot 2025-07-01 at 9 05 27 PM" src="https://github.com/user-attachments/assets/18e856ef-2a4e-4fbc-a89e-c44fc88c99fd" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 06 12 PM" src="https://github.com/user-attachments/assets/fafdb176-1b8c-404a-9309-04b8749b6631" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/12df803b-d741-4efe-86df-dae7e2d91704" /><br>
 
----
-
 👉 In allen drei Fällen zeigen die Diagramme, dass es einige wenige Kunden mit sehr hohen Werten gibt – diese Ausreißer könnten besonders interessante oder atypische Kundenprofile darstellen.<br>
 
----
-
-2. Heatmap der durchschnittlichen Monetärwertr je R/F-Score
+### 2. Heatmap der durchschnittlichen Monetärwertr je R/F-Score
 <img width="700" alt="Screenshot 2025-07-01 at 9 09 10 PM" src="https://github.com/user-attachments/assets/fb1f8bc7-b36f-4a9a-b36b-b9b5d5e9aa07" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 09 17 PM" src="https://github.com/user-attachments/assets/775114cb-5a03-4bd4-b6e1-9ac211dee6b2" />
 <br>
 
----
-
 👉 Kunden mit einem hohen R- und F-Score (z. B. R=5, F=5) haben tendenziell auch einen höheren Umsatz, was sie zu besonders wertvollen Zielgruppen macht.
 <br>
 
----
-
-4. Kundensegmentierung auf Basis von RFM
+### 3. Kundensegmentierung auf Basis von RFM
 <img width="700" alt="Screenshot 2025-07-01 at 9 10 07 PM" src="https://github.com/user-attachments/assets/5eb4d7d3-082b-4919-af23-a9e31108e570" />
 <img width="700" alt="Screenshot 2025-07-01 at 9 10 14 PM" src="https://github.com/user-attachments/assets/d5029356-46ac-4d2f-89ee-72851d6b6191" />
 <br>
 👉 Diese Segmentierung ermöglicht es Unternehmen, gezielte Marketingstrategien für jede Gruppe zu entwickeln und dadurch Kundenbindung sowie Umsatz zu optimieren.
 <br>
+
 ## 🔎 Kundenanalyse nach Segmenten – Erkenntnisse & Vorschläge
+
 ### 1. 💡 **Potenzielle Loyalität**
 Dieses Segment ist mit Abstand das größte, was zeigt, dass viele Kunden aktiv, aber noch nicht fest gebunden sind.  
 👉 Um ihre Loyalität zu stärken, sollten gezielte Treueprogramme, personalisierte Angebote und Kundenbindungskampagnen eingesetzt werden.
-
----
 
 ### 2. ⚠️ **Abwanderungsgefährdet**
 Ein großer Teil der Kunden zeigt Anzeichen von Abwanderung, was ein klares Warnsignal darstellt.  
 👉 Um diesen Verlust zu vermeiden, sollten proaktiv Anreize, gezielte Reaktivierungskampagnen und persönliche Kontaktaufnahmen erfolgen.
 
----
 
 ### 3. 🔍 **Benötigt Aufmerksamkeit**
 Diese Kunden stehen kurz davor, sich zu entfernen oder vergessen zu werden, obwohl sie noch Potenzial zeigen.  
 👉 Durch gezielte Kommunikation, z. B. E-Mails, Umfragen oder Service-Interaktionen, kann ihre Aktivität und Zufriedenheit wieder erhöht werden.
 
----
 
 ### 4. 🧡 **Treue Kunden**
 Diese Gruppe ist wertvoll, aber im Vergleich eher klein – es besteht Wachstumspotenzial.  
 👉 Durch gezielte Wertschätzung (z. B. Bonuspunkte, Early Access) kann ihre Loyalität weiter gestärkt und langfristig gesichert werden.
 
----
 
 ### 5. 🌀 **Andere**
 Diese nicht näher definierten Kunden zeigen ein mittleres Aktivitätsniveau, was auf heterogene Verhaltensmuster hinweist.  
 👉 Eine tiefergehende Segmentierung und Analyse dieser Gruppe kann verstecktes Potenzial aufdecken oder Problemfelder identifizieren.
 
----
 
 ### 6. 🏆 **Champions**
 Obwohl sie die besten und loyalsten Kunden darstellen, ist ihr Anteil sehr gering.  
 👉 Um diese Kunden zu halten und als Markenbotschafter zu nutzen, sollten exklusive Vorteile, VIP-Programme und Empfehlungsaktionen angeboten werden.
 
----
 
 ### 7. 🚪 **Abgewandert**
 Dieses Segment ist aktuell klein, aber es zeigt, dass gewisse Kunden bereits verloren gingen.  
